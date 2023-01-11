@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import logo from "../icon_and_graphics_9.gif"
-import TransAmount from "./TransAmount";
+
 
 export default function NavBar(){
     
